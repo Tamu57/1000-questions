@@ -6,7 +6,7 @@ In this repo i committed all the exercises that i did while learning that progra
 
 <br>
 
-under src you are going to find a file for questions and a folder (named after that language) which is going to contain file (named after the Question number) the code of that question with number assigned to them. 
+under src you are going to find a file for questions and a folder (named after that language) which is going to contain file (named after the Question number) the code of that question with number assigned to them. or you could find the qustion inside code 
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; src 
